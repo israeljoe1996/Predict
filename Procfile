@@ -1,1 +1,1 @@
-web: sh setup.sh && run regression_model.py
+web: sh setup.sh && streamlit run regression_model.py
